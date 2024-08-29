@@ -1,5 +1,5 @@
 <template>
-  <micro-app name="demo1" url="http://localhost:5173/a/demo1/" iframe></micro-app>
+  <micro-app name="demo1" url="http://localhost:5274/a/demo1/" iframe></micro-app>
 </template>
 
 <script setup lang="ts">
